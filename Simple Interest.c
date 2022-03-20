@@ -2,8 +2,7 @@
 #include <stdio.h>
 #include <math.h>
 int main (){
-	// Formula :- p*t*r/100 
-	int p,t,r;
+	/
 	float I;
   printf("Enter Amount Deatails \n");
   printf("Prinicipal Amount  = ");
